@@ -1,0 +1,12 @@
+{
+  "name": "baidutr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "oeyoews <jyao4783@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "md5": "^2.3.0",
+    "prompts": "^2.4.2"
+  }
+}
